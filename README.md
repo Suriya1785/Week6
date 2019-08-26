@@ -1,0 +1,1 @@
+This is javascript repository for Week 6.
